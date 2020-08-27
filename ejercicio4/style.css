@@ -1,0 +1,35 @@
+
+#div_contenedor{
+    
+    width: 500px;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid gray;
+
+    
+
+}
+
+.blue{
+    background-color:blue;
+}
+
+
+.red{
+    background-color: red;
+}
+.purple{
+    background-color: purple;
+}
+.yellow{
+    background-color: yellow;
+}
+.coral{
+    background-color: coral;
+}
+.lime{
+    background-color: lime;
+}
+
